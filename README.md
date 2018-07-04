@@ -121,3 +121,5 @@ done
 
 ------
 ## Inserting images
+
+Upload files using the tool/button/function
