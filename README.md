@@ -126,4 +126,5 @@ Upload files using the tool/button/function
 
 ![map](New_Ireland_Topography.png)
 
-Anezka edits Sindy edits too
+
+My name is Anezka.
