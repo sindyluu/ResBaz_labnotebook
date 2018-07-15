@@ -4,7 +4,7 @@ Trial of digital lab notebook following ResBazDunedin2018
 ## Protocols
 * [DNA Protocols](https://github.com/sindyluu/ResBaz_labnotebook/tree/master/protocol)
 
-## Results
+## Projects
 * [New Ireland](https://github.com/sindyluu/ResBaz_labnotebook/tree/master/New_Ireland/Results)
 * PNG Highlands
 
